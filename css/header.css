@@ -1,0 +1,11 @@
+.seattle{
+  background: url('../static/img/seattle.jpg') center;
+  background-size: cover;
+  padding: 4rem 2rem;
+}
+
+.header-text{
+  margin: auto;
+  text-align: center;
+  vertical-align: middle;
+}
